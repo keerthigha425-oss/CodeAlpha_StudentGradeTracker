@@ -48,6 +48,9 @@ src/
 ### Grade Report
 
 ![Grade Report](screenshots/summary-rep.png)
+
+---
+
 ## Author
 
 **C V Keerthigha**
