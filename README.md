@@ -31,7 +31,23 @@ src/
 1. Clone the repository.
 2. Open the project in Eclipse or IntelliJ IDEA.
 3. Run `Main.java`.
+## 📸 Screenshots
 
+### Main Menu
+
+![Main Menu](screenshots/main-menu.png)
+
+---
+
+### Add Student
+
+![Add Student](screenshots/add-std.png)
+
+---
+
+### Grade Report
+
+![Grade Report](screenshots/summary-rep.png)
 ## Author
 
 **C V Keerthigha**
