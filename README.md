@@ -47,7 +47,7 @@ src/
 
 ### Grade Report
 
-![Grade Report](screenshots/summary-rep.png)
+![Summary Report](screenshots/summary-rep.png)
 
 ---
 
